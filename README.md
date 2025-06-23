@@ -10,10 +10,6 @@
   I'm passionate about cloud technologies, CI/CD automation, and scalable microservices.
 </div>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ninaddhuri/)
-  [![Resume](https://img.shields.io/badge/Resume-View-orange?style=flat)](./NinadDhuri_Resume.pdf)
-</div>
 
 ## 🚀 Skills
 - **Languages:** Java, C++, Golang, Python, JavaScript/TypeScript, Ruby, PHP
