@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "programs/position_manager",
-    "backend/position-manager-service"
-]
-resolver = "2"
