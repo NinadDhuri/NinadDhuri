@@ -34,4 +34,14 @@
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" height="22px"></a>
 </div>
 
+## 🧮 Position Management System
+
+This repository now includes a reference implementation of a high-frequency position management stack for Solana perpetual futures:
+
+* `programs/position_manager`: Anchor smart contract for opening, modifying, and closing leveraged positions with fixed-point margin math.
+* `backend/position-manager-service`: Rust backend exposing REST APIs, risk monitoring hooks, and repository abstractions.
+* `docs/`: Architecture, formula, and risk management references outlining the core calculations and safety guarantees.
+
+Consult [`docs/architecture.md`](docs/architecture.md) for a full overview and [`docs/backend_api.md`](docs/backend_api.md) for integration details.
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=11d4be&style=flat" alt="back to top" /></a></p>
